@@ -1,0 +1,7 @@
+{
+	"name": "Blink Arrows",
+	"version": "1.0.0",
+	"author": "KonspiracieTheorie",
+	"description": "An arrow that swaps it and the user's place.",
+	"dll": "ExampleArrow.dll"
+}

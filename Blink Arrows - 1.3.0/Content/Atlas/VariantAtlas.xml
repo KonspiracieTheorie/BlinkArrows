@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:17ae4c45f3b5f167234396b9fa52870d:93fbe2740e1e975defc65a72a783b76b:cde709370900f12288f3449eded86f07$ -->
+<TextureAtlas imagePath="VariantAtlas.png">
+	<SubTexture name="variants/startWithBlinkArrows" x="1" y="1" width="14" height="14"/>
+	<SubTexture name="variants/excludeBlinkArrows" x="17" y="1" width="14" height="14"/>
+	<SubTexture name="variants/startWithGombocArrows" x="1" y="16" width="14" height="14"/>
+	<SubTexture name="variants/excludeGombocArrows" x="17" y="16" width="14" height="14"/>
+	<SubTexture name="variants/startWithSublimeArrows" x="1" y="31" width="14" height="14"/>
+	<SubTexture name="variants/excludeSublimeArrows" x="17" y="31" width="14" height="14"/>
+	<SubTexture name="variants/startWithQuicksilverArrows" x="1" y="46" width="14" height="14"/>
+	<SubTexture name="variants/excludeQuicksilverArrows" x="17" y="46" width="14" height="14"/>
+	<SubTexture name="variants/startWithArrowBombArrows" x="1" y="61" width="14" height="14"/>
+	<SubTexture name="variants/excludeArrowBombArrows" x="17" y="61" width="14" height="14"/>
+	<SubTexture name="variants/startWithNyoomArrows" x="1" y="76" width="14" height="14"/>
+	<SubTexture name="variants/excludeNyoomArrows" x="17" y="76" width="14" height="14"/>
+	<SubTexture name="variants/startWithOccultArrows" x="1" y="91" width="14" height="14"/>
+	<SubTexture name="variants/excludeOccultArrows" x="17" y="91" width="14" height="14"/>
+</TextureAtlas>

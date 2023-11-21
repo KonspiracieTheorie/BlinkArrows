@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:17ae4c45f3b5f167234396b9fa52870d:93fbe2740e1e975defc65a72a783b76b:cde709370900f12288f3449eded86f07$ -->
+<TextureAtlas imagePath="ArrowAtlas.png">
+	<SubTexture name="BlinkArrowHud" x="26" y="1" width="5" height="9"/>
+	<SubTexture name="BlinkArrow" x="13" y="1" width="13" height="4"/>
+	<SubTexture name="BlinkArrowBuried" x="13" y="6" width="13" height="4"/>
+	<SubTexture name="BlinkArrowPickup" x="1" y="1" width="12" height="12"/>
+	<SubTexture name="GombocArrowHud" x="26" y="13" width="5" height="9"/>
+	<SubTexture name="GombocArrow" x="13" y="13" width="13" height="4"/>
+	<SubTexture name="GombocArrowBuried" x="13" y="19" width="13" height="4"/>
+	<SubTexture name="GombocArrowPickup" x="1" y="13" width="12" height="12"/>
+	<SubTexture name="SublimeArrowHud" x="26" y="25" width="5" height="9"/>
+	<SubTexture name="SublimeArrow" x="13" y="25" width="13" height="4"/>
+	<SubTexture name="SublimeArrowBuried" x="13" y="31" width="13" height="4"/>
+	<SubTexture name="SublimeArrowPickup" x="1" y="25" width="12" height="12"/>
+	<SubTexture name="SublimeArrowVapor" x="31" y="25" width="13" height="4"/>
+	<SubTexture name="SublimeArrowVaporBuried" x="31" y="31" width="13" height="4"/>
+	<SubTexture name="SublimeArrowVaporHud" x="40" y="25" width="5" height="9"/>
+	<SubTexture name="QuicksilverArrowHud" x="26" y="37" width="5" height="9"/>
+	<SubTexture name="QuicksilverArrow" x="13" y="37" width="13" height="4"/>
+	<SubTexture name="QuicksilverArrowBuried" x="13" y="43" width="13" height="4"/>
+	<SubTexture name="QuicksilverArrowPickup" x="1" y="37" width="12" height="12"/>
+	<SubTexture name="QuicksilverArrowDrip" x="31" y="37" width="13" height="4"/>
+	<SubTexture name="QuicksilverArrowDripBuried" x="31" y="43" width="13" height="4"/>
+	<SubTexture name="QuicksilverArrowDripHud" x="40" y="37" width="5" height="9"/>
+	<SubTexture name="ArrowBombArrowHud" x="38" y="49" width="5" height="9"/>
+	<SubTexture name="ArrowBombArrow" x="25" y="49" width="13" height="4"/>
+	<SubTexture name="ArrowBombArrowBuried" x="25" y="55" width="13" height="4"/>
+	<SubTexture name="ArrowBombArrowPickup" x="1" y="49" width="24" height="12"/>
+	<SubTexture name="ArrowBombArrowFragment" x="1" y="61" width="13" height="4"/>
+	<SubTexture name="ArrowBombArrowFragmentBuried" x="14" y="61" width="13" height="4"/>
+	<SubTexture name="ArrowBombArrowFragmentHud" x="38" y="57" width="5" height="9"/>
+	<SubTexture name="NyoomArrowHud" x="38" y="65" width="5" height="9"/>
+	<SubTexture name="NyoomArrow" x="25" y="65" width="13" height="4"/>
+	<SubTexture name="NyoomArrowBuried" x="25" y="71" width="13" height="4"/>
+	<SubTexture name="NyoomArrowPickup" x="1" y="65" width="24" height="12"/>
+	<SubTexture name="OccultArrowHud" x="26" y="77" width="5" height="9"/>
+	<SubTexture name="OccultArrow" x="13" y="77" width="13" height="4"/>
+	<SubTexture name="OccultArrowBuried" x="13" y="83" width="13" height="4"/>
+	<SubTexture name="OccultArrowPickup" x="1" y="77" width="12" height="12"/>
+	<SubTexture name="Occultation" x="6" y="82" width="1" height="1"/>
+</TextureAtlas>
